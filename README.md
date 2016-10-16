@@ -19,7 +19,7 @@ Let me know if you want to contribute at the https://github.com/aniruddhadas9/ge
 Then generate your new project:
 
 ```bash
-yo angular2-with-router
+yo angular2-with-systemjs
 ```
 
 ## Getting To Know Yeoman
