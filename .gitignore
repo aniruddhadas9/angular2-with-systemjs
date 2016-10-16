@@ -1,7 +1,7 @@
 node_modules
 coverage
 /generators/node_modules/
-/generators/typings/
+/generators/templates/typings/
 .idea
 /npm-debug.log
 
